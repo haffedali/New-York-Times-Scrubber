@@ -1,0 +1,29 @@
+{
+  "name": "new-york-times-scrubber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "create-react-app": "^2.0.3",
+    "express": "^4.16.3",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.3.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haffedali/New-York-Times-Scrubber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haffedali/New-York-Times-Scrubber/issues"
+  },
+  "homepage": "https://github.com/haffedali/New-York-Times-Scrubber#readme"
+}
